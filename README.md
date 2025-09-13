@@ -18,7 +18,6 @@ I believe good analytics is about asking the right questions, understanding the 
 ## 📂 Featured Projects
 - [**Business‑Insights‑360**](https://github.com/Vaishnav-Official/Business-Insights-360) – End‑to‑end BI project with Power BI dashboards and SQL data models.
 - [**CB‑5 Consumer Goods Analysis**](https://github.com/Vaishnav-Official/CB-5-Consumer_Goods_Analysis) – Sales and inventory analysis for consumer goods.
-- [**Data Science Resources**](https://github.com/Vaishnav-Official/Data-Science-Resources) – Curated learning materials for aspiring data professionals.
 
 ---
 

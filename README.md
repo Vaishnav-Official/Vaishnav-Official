@@ -41,7 +41,7 @@ I believe good analytics is about asking the right questions, understanding the 
 ---
 
 > *“Turning messy data into meaningful stories — from chai‑stained ledgers to enterprise dashboards.”*
-## Hi there 👋
+
 
 <!--
 **Vaishnav-Official/Vaishnav-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
